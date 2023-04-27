@@ -70,5 +70,11 @@ textarea {
   text-align: center;
   background-color: red;
 }
+.form-button {
+  text-align: center;
+}
 #form-button:hover {
+  background-color: #fff;
+  color: red;
+  cursor: pointer;
 }
