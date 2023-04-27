@@ -70,4 +70,5 @@ textarea {
   text-align: center;
   background-color: red;
 }
-#form-button: hover;
+#form-button:hover {
+}
