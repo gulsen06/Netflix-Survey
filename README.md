@@ -10,8 +10,6 @@
 - [My process](#my-process)
   - [Built with](#built-with)
 
-
-
 ## Overview
 
 ### The challenge
@@ -22,21 +20,20 @@ Your company has recently started on a project that aims to conduct a survey to 
 
 ```
 netflix-clone (folder)
-        |----index.html  
-        |----style.css   
-        |----result.html 
+        |----index.html
+        |----style.css
+        |----result.html
 ```
+
 ### Screenshot
 
 <p align="center">
 <a href="https://gulsen06.github.io/Netflix-Survey/"><img src="netflix.gif" alt="screenshot" width="100%"></a>
 </p>
 
-
 ### Links
 
 - Live: [Live Website](https://gulsen06.github.io/Netflix-Survey/)
-
 
 ### Built with
 
@@ -51,4 +48,3 @@ netflix-clone (folder)
 - CSS Colors-Border Properties
 - CSS Margins-Padding
 - CSS Properties for Texts-Font Families-Links
-
